@@ -9,9 +9,9 @@ import time
 # As a user, I want to delete an existing gist.
 # As a user, I want to see my list of gists.
 
-username = "Rco-Ns"
-pwd = "loonatix1945"
-myGistsURL = "https://gist.github.com/Rco-Ns"
+username = "your-github-username"
+pwd = "your-github-password"
+myGistsURL = "https://gist.github.com/your-gists-url"
 gitHubURL = "https://github.com/login"
 
 class CreateModule():
